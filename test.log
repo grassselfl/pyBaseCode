@@ -1,0 +1,8 @@
+Sat, 11 Jun 2022 13:01:05 study_63.py[line:8] DEBUG debug message
+Sat, 11 Jun 2022 13:01:05 study_63.py[line:9] INFO info message
+Sat, 11 Jun 2022 13:01:05 study_63.py[line:10] WARNING warning message
+Sat, 11 Jun 2022 13:01:05 study_63.py[line:11] ERROR error message
+Sat, 11 Jun 2022 13:01:05 study_63.py[line:12] CRITICAL critical message
+2022-06-11 13:40:42,096 - root - WARNING - warning message
+2022-06-11 13:40:42,096 - root - ERROR - error message
+2022-06-11 13:40:42,096 - root - CRITICAL - critical message
