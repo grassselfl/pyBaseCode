@@ -14,3 +14,6 @@ print(max(l, key=lambda n: n * n))
 
 # 内置函数带key
 # max、min、filter、map、sorted
+
+
+# 推导式、生成器、装饰器
