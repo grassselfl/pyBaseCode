@@ -103,3 +103,24 @@ study_9.py,c\1\c1227967e23ca3b4360034993c76fbc4f94a2f86
 study_27.py,7\f\7f0a0970fc783ac04e4ec7385d7c9550d151969e
 ;
 study_28.py,d\7\d788dbac9d0e23a0219906fe1634e1e8d9ded90d
+;
+study_29.py,f\f\fffcea907fe6b09dbd85e43db14b49a7da9da463
+;
+study_30.py,5\9\59a576e9eb7ee9d023afd6ef0242f0234305fc8a
+;
+study_31.py,3\9\395f7e235d2af8f9945c194761de3b43b7a1b6c7
+;
+study_32.py,a\4\a4f99c97848bbe7147bb92bfcfe1aa7fc6313f84
+;
+study_33.py,6\f\6f2369668948e59f912f89a93fd4da6059a2286e
+;
+study_34.py,b\e\bef2b5e2a840b433d710b5a82aced4408185d474
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+;
+overview.py,7\3\73dca5da4c27167ebf49363ebb6a3c85192c145e
+<
+test/bool.py,b\d\bdcae035f823a28a8e9f8193e851e15d4c1a5eed
+:
+
+test/qw.py,f\b\fbb562d50a0c5a7f99847523033ee8e82dac8653
