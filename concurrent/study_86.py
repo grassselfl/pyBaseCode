@@ -1,4 +1,5 @@
 # concurrent
+# concurrent是并发包，包含多进程和多线程的各种工具，包括进程池、线程池
 import time
 from concurrent.futures import ThreadPoolExecutor
 
@@ -20,3 +21,5 @@ for i in range(20):
 # tpool.shutdown()#可以不等部分获取结果
 print("主线程")
 for t in t_list:print(t.result())
+
+import asyncio
