@@ -1,0 +1,13 @@
+
+6python:S125"Remove this commented out code.(ì‹‡¤
+Apython:S2201")The return value of "range" must be used.(†¹Ö²
+Fpython:S2201")The return value of "slice" must be used.(î¨™Äüÿÿÿÿ
+Gpython:S2201"*The return value of "sorted" must be used.(£ïÀ…ûÿÿÿÿ
+Dpython:S2201",The return value of "reversed" must be used.(…²áÀ
+Jpython:S2201"-The return value of "enumerate" must be used.(Ğÿ­ şÿÿÿÿ
+Jpython:S2201"-The return value of "frozenset" must be used.(•òşæşÿÿÿÿ
+Dpython:S2201"'The return value of "zip" must be used.( éÂüÿÿÿÿ
+=python:S2201""&The return value of "id" must be used.(²†±K
+;python:S125D"Remove this commented out code.(‘Œå¿üÿÿÿÿ
+6python:S125K"Remove this commented out code.(´ßğ
+[python:S930a"?Add 1 missing arguments; 'func' expects 1 positional arguments.(†»ÓÔûÿÿÿÿ
