@@ -129,3 +129,6 @@ void PyMem_Free(void *ptr)
 
 
 
+```python
+a, b = 1, 2
+```
